@@ -1,0 +1,22 @@
+{
+  "name": "rasp",
+  "version": "1.0.0",
+  "description": "test site for pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/night5415/pi.git"
+  },
+  "keywords": [
+    "pi"
+  ],
+  "author": "mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/night5415/pi/issues"
+  },
+  "homepage": "https://github.com/night5415/pi#readme"
+}
